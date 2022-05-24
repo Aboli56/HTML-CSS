@@ -98,7 +98,7 @@ button:hover{
     width: 99%;
     margin-left: 5px;
 }
-.content1 p{
+.content1 .header{
     margin-left: 20px;
 }
 .body-container{
