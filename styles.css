@@ -98,7 +98,7 @@ button:hover{
     width: 99%;
     margin-left: 5px;
 }
-.content1 .header{
+.content1 p{
     margin-left: 20px;
 }
 .body-container{
@@ -176,6 +176,9 @@ button:hover{
     color: #ffffff;
     width: 90%;
     margin-bottom: 15px;
+}
+.content-wrapper .add-to-cart-btn:hover{
+    background-color:orange;
 }
 .btn button{
     width: 200px;
