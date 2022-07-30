@@ -337,7 +337,7 @@ h1{
     }
     .contact{
         box-sizing: border-box;
-        width: 100%;
+        width: 98%;
         height: 90vh;
         display: flex;
         justify-content: center;
@@ -346,8 +346,9 @@ h1{
         margin-bottom: 20px;
     }
     .sp-img{
-        width: 100%;
+        width: 98%;
         height: 90vh;
+        margin-left: -2.5px;
         margin-bottom: 20px;
     }
     .last{
